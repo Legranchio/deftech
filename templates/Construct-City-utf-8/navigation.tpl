@@ -1,0 +1,1 @@
+<div id="ajax-next-page">[next-link][/next-link]</div>
